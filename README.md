@@ -1,4 +1,4 @@
-# Location-based Augmented Reality in combinatie met een web-based applicatie (iOS)
+# Location-based Augmented Reality in combinatie met een web-based applicatie
 
 Dit prototype is een onderdeel van de scriptie die werd gemaakt voor de opleiding Toegepaste Informatica, Mobile & Enterprise Development aan de Hogeschool Gent.
 
